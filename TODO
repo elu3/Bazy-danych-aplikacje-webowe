@@ -1,0 +1,7 @@
+IhU2RPOKhv
+
+zaminiec w skrypcie pesel i nip na varchara
+nr_telefonu -> numer_telefonu
+klient.firma_id zamienic ze moze byc nullem
+
+planosci.nazwa -> zmienic typ na varchar, dlugosc ~ 40

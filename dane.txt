@@ -1,0 +1,34 @@
+graph = {
+'status_rezerwacji': [],
+'adres' : [],
+'dane_osobowe' : ['adres'],
+'dane_firmy' : [],
+'klient' : ['dane_firmy', 'dane_osobowe'],
+'platnosc': [],
+'uprawnienia' : [],
+'pracownik': ['uprawnienia','dane_osobowe'],
+'usluga' : [],
+'typ_pokoju' : [],
+'pokoj': ['typ_pokoju'],
+'rezerwacja': ['klient','platnosc','pokoj','pracownik','status_rezerwacji','usluga'],
+'czarna_lista' : ['klient'],
+'stali_klienci': ['klient']
+}
+
+Kolejność:
+status_rezerwacji - ok.
+adres - ok.
+dane_osobowe - ok.
+dane_firmy - ok.
+klient - ok.
+usluga - ok.
+typ_pokoju - ok.
+pokoj - ok.
+platnosci - ok.
+
+uprawnienia
+pracownik
+rezerwacja
+
+czarna_lista
+stali_klienci

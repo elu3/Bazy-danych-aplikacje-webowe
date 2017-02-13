@@ -1,0 +1,11 @@
+scp adres_import.sql root@162.243.184.159:adres_import.sql
+scp dane_firmy_insert.sql root@162.243.184.159:dane_firmy_insert.sql
+scp dane_osobowe_insert.sql root@162.243.184.159:dane_osobowe_insert.sql
+scp klient_insert.sql root@162.243.184.159:klient_insert.sql
+scp platnosci_insert.sql root@162.243.184.159:platnosci_insert.sql
+scp pokoj_insert.sql root@162.243.184.159:pokoj_insert.sql
+scp pracownik_insert.sql root@162.243.184.159:pracownik_insert.sql
+scp status_rezerwacji_import.sql root@162.243.184.159:status_rezerwacji_import.sql
+scp typ_pokoju.sql root@162.243.184.159:typ_pokoju.sql
+scp uprawnienia_insert.sql root@162.243.184.159:uprawnienia_insert.sql
+scp usluga.sql root@162.243.184.159:usluga.sql
