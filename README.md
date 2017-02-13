@@ -1,4 +1,1 @@
-# MonikaBazyDanych
-# Bazy-danych-aplikacje-webowe
-# Bazy-danych-aplikacje-webowe
-# Bazy-danych-aplikacje-webowe
+Projekt realizujący system zarządzania hotelem.
